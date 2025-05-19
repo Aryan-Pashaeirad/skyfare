@@ -1,4 +1,4 @@
-# ✈️ Airline Ticket Booking System
+# Skykfare, Airline Ticket Booking System
 
 Welcome! This is a web-based Airline Ticket Booking System built with **Java Spring Boot**. It lets users easily search and book flight tickets while giving admins full control over flight management.
 
@@ -6,7 +6,7 @@ Whether you're booking your next trip or managing an airline's schedule, this ap
 
 ---
 
-## 🌟 What You Can Do
+##  What You Can Do
 
 ### For Users:
 - Sign up and log in
@@ -22,7 +22,7 @@ Whether you're booking your next trip or managing an airline's schedule, this ap
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Java 17 + Spring Boot** – backend framework
 - **Spring Security** – handles user login/signup and role-based access
@@ -35,7 +35,7 @@ Whether you're booking your next trip or managing an airline's schedule, this ap
 
 ---
 
-## 📁 Project Overview
+##  Project Overview
 
 Here's a quick look at the folder structure:
 
@@ -58,7 +58,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the project**
    ```bash
@@ -81,26 +81,26 @@ src/
 
 ---
 
-## 🔐 Roles
+##  Roles
 
 - **Admin** – Full access to manage airlines, flights, and tickets.
 - **User** – Can view and book tickets after signing up.
 
 ---
 
-## 📬 Email Confirmations
+##  Email Confirmations
 
 Once a ticket is booked, a confirmation email is sent to the user. Just make sure to configure your SMTP settings in `application.yml`.
 
 ---
 
-## 📤 Excel Exports
+##  Excel Exports
 
 Admins can download flight, ticket, and customer information as Excel files using the built-in export feature.
 
 ---
 
-## 💡 Notes
+##  Notes
 
 - The app uses basic Spring Security. You can expand it with JWT or OAuth if needed.
 - The UI is kept simple and functional for demo purposes.
@@ -108,7 +108,7 @@ Admins can download flight, ticket, and customer information as Excel files usin
 
 ---
 
-## 📄 License
+##  License
 
 This project is open for learning and experimentation. Fork it, tweak it, and use it however you like.
 
